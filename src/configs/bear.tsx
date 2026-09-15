@@ -73,6 +73,14 @@ const bear: BearData[] = [
         icon: "i-akar-icons:sword",
         excerpt: "A spam email detection system...",
         link: "https://spam-email-detection-uctzxjslqym2v8kmanchnu.streamlit.app/"
+      },
+      {
+        id: "Bruno",
+        title: "Bruno — AI Voice Desktop Assistant",
+        file: "markdown/bruno.md",
+        icon: "i-ri:mic-ai-fill",
+        excerpt:
+          "Production grade AI voice assistant for Windows with ondevice speech recognition, multi-provider LLM chaining, persistent memory, and 20+ system automation tools."
       }
     ]
   }
